@@ -1,4 +1,4 @@
-### Lexathon
+##### Lexathon
 ##Recreation of a popular Android game application using MIPS32 assembler language
 
 Lexathon for MIPS
