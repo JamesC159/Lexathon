@@ -1,17 +1,17 @@
-# Lexathon
-Recreation of a popular Android game application using MIPS32 assembler language
+### Lexathon
+##Recreation of a popular Android game application using MIPS32 assembler language
 
 Lexathon for MIPS
 
 
 ###########################################################################
-Authors:  
+#Authors:  
 
 James Combs, Christopher Fox, Nic Powell
 
 
 ###########################################################################
-Description:
+##Description:
 
 Lexathon is a word game that instructs users to find words from an array of
 letters printed in a 3x3 box.  Words must be between 4 and 9 letters long
@@ -24,7 +24,7 @@ second.
 
 
 ###########################################################################
-Requirements:
+##Requirements:
 
 The game was written with MARS 4.5 and is recommended for gameplay.
 The simulator can be downloaded from the following site:
@@ -38,7 +38,7 @@ The program has been tested on Windows and MAC platforms.
 
 
 ###########################################################################
-Installation and Configuration:
+##Installation and Configuration:
 
 1.  Unzip Lexathon.zip to a desired location.
 
@@ -68,7 +68,7 @@ be played.
 
 
 ###########################################################################
-Features:
+##Features:
 
 The game provides a pseudo graphical interface inside of the MARS console
 and is built to support a console height of 18 lines.  Upon assembly/play,
@@ -105,14 +105,14 @@ input their name.  The score placement can be seen by selecting
 
 
 ###########################################################################
-Limitations:
+##Limitations:
 
 MARS doesn't provide a GUI to be built, so a pseudo graphical text
 interface was created to provde a small degree of cosmetic to the program.
 
 
 ###########################################################################
-Important Notes:
+##Important Notes:
 
 The imported .txt files should not be modified!  The files have a
 particular format that accomodates both MAC and Windows systems and the
